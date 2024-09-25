@@ -82,10 +82,11 @@
 ### 3-3 その他文書・図面
 > [!NOTE]
 > **その他の文書・図面については、[「クリエイティブ・コモンズ・ライセンス　CC-CC0」](https://creativecommons.org/publicdomain/zero/1.0/) （パブリックドメイン）で提供します。**
+
 ![cco_icon](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/cc-zero.png)
 
 その他の製造用図書、具体的には仕様書・回路図・パターン図・製造／試験手順書・試験成績書・取り扱い説明書・部品表についてはその記述内容についての著作権は発生しないと考え、当研究所に権利がないことを明確にするためパブリックドメインライセンスで公開します。
-CC-CC0での許諾条項については、[こちらのリンク](https://creativecommons.org/publicdomain/zero/1.0/legalcode.en)を参照し内容を確認してください。﻿
+CC-CC0での許諾条項については、[こちらのリンク](https://creativecommons.org/publicdomain/zero/1.0/legalcode.en)を参照し **内容を必ず確認してください。**﻿
 
 **この場合でも3−1で禁止した項目についてはその制限を有効とします。**
 同禁止事項を以下に再掲します：
