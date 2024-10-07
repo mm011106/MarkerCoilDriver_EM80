@@ -78,4 +78,4 @@ MEG装置内部での被験者の頭部位置を推定するために、複数�
 ![drive timing chart](figures/deriveSequence.png)
 
 ## MEG接続用コネクタ　ピン配置
-![pin config](figures/HR10G-10R-10P73_pinConfig.png)
+<img src="figures/HR10G-10R-10P73_pinConfig.png" alt="pin_config" width="600px">
