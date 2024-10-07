@@ -75,7 +75,8 @@ MEG装置内部での被験者の頭部位置を推定するために、複数�
 - 電源	+5V、100mA以下（microUSBコネクタによる）
 
 ## 駆動のタイミングチャート
-![drive timing chart](figures/deriveSequence.png)
+<!-- ![drive timing chart](figures/deriveSequence.png) -->
+<img src="figures/deriveSequence.png" alt="drive_timing" width="800px">
 
 ## MEG接続用コネクタ　ピン配置
 <img src="figures/HR10G-10R-10P73_pinConfig.png" alt="pin_config" width="600px">
