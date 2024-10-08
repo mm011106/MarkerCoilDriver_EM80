@@ -99,7 +99,7 @@ MEG装置内部での被験者の頭部位置を推定するために、複数�
 </br>
 
 ## MEG接続用コネクタ　ピン配置
-- コネクタ型番：HR10G-10R-10P73 ヒロセ（回路側：レセプタクル）
+- コネクタ型番：[HR10G-10R-10P73](https://www.hirose.com/ja/product/p/CL0110-1608-0-73#) ヒロセ（レセプタクル）
 <img src="figures/HR10G-10R-10P73_pinConfig.png" alt="pin_config" width="500px">
 
 ### MEG接続用コネクタのフォトカプラ周辺回路
