@@ -74,9 +74,25 @@ MEG装置内部での被験者の頭部位置を推定するために、複数�
 
 - 電源	+5V、100mA以下（microUSBコネクタによる）
 
-## 駆動のタイミングチャート
+## 動作に必要なもの
+- 単三充電池（Ni-MH）4本
+- EM-80D ~ EM-80R間接続用光ファイバケーブル
+- EM-80R用電源　USB電源 (5V) と USB-microケーブル（パソコンのUSB端子でも可）
+
+## コイル駆動のタイミングチャート
 <!-- ![drive timing chart](figures/deriveSequence.png) -->
 <img src="figures/deriveSequence.png" alt="drive_timing" width="800px">
 
+## ブロック図
+### EM-80D
+<img src="figures/BlockDiagram_rev3.png" alt="EM-80D_BlockDiagram" width="800px">
+
+### EM-80R
+<img src="figures/BlockDiagram_RemoteCTL.png" alt="EM-80R_BlockDiagram" width="600px">
+
 ## MEG接続用コネクタ　ピン配置
+- コネクタ型番：HR10G-10R-10P73（回路側：レセプタクル）
 <img src="figures/HR10G-10R-10P73_pinConfig.png" alt="pin_config" width="600px">
+
+### MEG接続用コネクタのフォトカプラ周辺回路
+<img src="figures/EM-80R_Interface.png" alt="pin_config" width="400px">
