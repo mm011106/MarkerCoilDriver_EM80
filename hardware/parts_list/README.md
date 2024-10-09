@@ -12,4 +12,4 @@ ReTHM発振器の部品表は設定発振周波数ごとに部品表があり、
 
 リードオンリーですが、ダウンロードはできますので任意のフォーマットでダウンロードして使用してください。
 
-[EM-80D/R 構成部品表](https://docs.google.com/spreadsheets/d/13D2T61DeKvrAvv0gDWFFBpFS9WP6c4iRA0h95MrQA-8/edit?usp=sharing)
+[EM-80D/R 構成部品表 - google sheets](https://docs.google.com/spreadsheets/d/13D2T61DeKvrAvv0gDWFFBpFS9WP6c4iRA0h95MrQA-8/edit?usp=sharing)
