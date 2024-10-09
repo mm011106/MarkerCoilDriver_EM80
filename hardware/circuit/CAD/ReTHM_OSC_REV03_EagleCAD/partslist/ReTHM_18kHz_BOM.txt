@@ -1,0 +1,75 @@
+Partlist
+
+Exported from OSC4ReTHM.sch at 2016/09/13 13:02
+
+EAGLE Version 7.4.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 18kHz
+
+Part     Value          Device         Package            Library      Sheet
+
+C1       1u/25V         CSMD1.6X0.8MM  CM1608             AEL_RLC      1
+C2       1n             CSMD2.0X1.2MM  CM2012             AEL_RLC      1
+C3       ---            CSMD2.0X1.2MM  CM2012             AEL_RLC      1
+C4       1n             CSMD2.0X1.2MM  CM2012             AEL_RLC      1
+C5       ---            CSMD2.0X1.2MM  CM2012             AEL_RLC      1
+C6       1n             CSMD2.0X1.2MM  CM2012             AEL_RLC      1
+C8       1u/25V         CSMD1.6X0.8MM  CM1608             AEL_RLC      1
+C9       56u/10V/OS     C_POL6.3-2.5MM PHI_6.3            AEL_RLC      1
+C10      0.1u           CSMD1.6X0.8MM  CM1608             AEL_RLC      1
+C11      0.1u           CSMD1.6X0.8MM  CM1608             AEL_RLC      1
+C12      0.1u           CSMD1.6X0.8MM  CM1608             AEL_RLC      1
+C13      0.1u           CSMD1.6X0.8MM  CM1608             AEL_RLC      1
+C14      0.1u           CSMD1.6X0.8MM  CM1608             AEL_RLC      1
+C15      0.1u           CSMD1.6X0.8MM  CM1608             AEL_RLC      1
+C16      4.7u/25V       CSMD2.0X1.2MM  CM2012             AEL_RLC      1
+C17      0.1u           CSMD1.6X0.8MM  CM1608             AEL_RLC      1
+C18      10n            CSMD2.0X1.2MM  CM2012             AEL_RLC      1
+CN1      DF11-12DP-2DSA DF11-12DP-2DSA DF11-12DP-2DSA     AEL_terminal 1
+D1       1SS226         1SS226         SOT23              AEL_diode    1
+R1       10k            RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R2       10k            RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R3       0              RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R4       0              RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R5       0              RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R6       51k            RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R7       51k            RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R8       160k           RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R9       51k            RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R10      10k            RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R11      5k/POT         R_POT          CT-6               AEL_RLC      1
+R12      5.1k           RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R13      9.1k           RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R14      0              RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R15      51k            RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R16      51k            RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R17      ---            RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R18      8.2k           RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R19      620            RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R20      5.1k           RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R21      5k/POT         R_POT          CT-6               AEL_RLC      1
+R22      1k             RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R23      51k            RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R24      51k            RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R25      160k           RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R26      51k            RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R31      68k            RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R32      47             RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R33      68k            RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R34      100k           RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R35      100k           RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R36      100k           RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R37      100k           RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+R38      100k           RSMD1.6X0.8MM  RM1608             AEL_RLC      1
+TP1      TP-1PAD        TP-1PAD        TP_PAD_1MM         AEL_terminal 1
+TP2      TP-LC3G        TP-LC3G        TP_TH_0R9MM        AEL_terminal 1
+TP3      TP-1PAD        TP-1PAD        TP_PAD_1MM         AEL_terminal 1
+TP4      TP-LC3G        TP-LC3G        TP_TH_0R9MM        AEL_terminal 1
+TP5      TP-1PAD        TP-1PAD        TP_PAD_1MM         AEL_terminal 1
+U1       OPA2344EA      OPA2344DGK     MSO8_AEL           AEL_linear   1
+U2       OPA2344EA      OPA2344DGK     MSO8_AEL           AEL_linear   1
+U3       TS5A23159DGS   TS5A23159DGS   MSOP10             AEL_linear   1
+U4       OPA2344EA      OPA2344DGK     MSO8_AEL           AEL_linear   1
+U5       TS5A23159DGS   TS5A23159DGS   MSOP10             AEL_linear   1
+U7       74VHC4052AFT   74VHC4052AFT   TSSOP16-P-044-065A AEL_CMOS_LOG 1
+U23      TPS79933DDC    TPS79933DDC    SOT-23-5           AEL_linear   1

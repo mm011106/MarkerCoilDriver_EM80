@@ -1,0 +1,67 @@
+Part				1	
+				1	
+C1	積層セラミックコンデンサ	GRM188B31E105K	村田製作所	1	ST
+C2	積層セラミックコンデンサ	GRM1882C1H102J	村田製作所	1	
+C3	（実装なし）	-NO_WORK-	---	1	---
+C4	積層セラミックコンデンサ	GRM1882C1H102J	村田製作所	1	
+C5	（実装なし）	-NO_WORK-	---	1	---
+C6	積層セラミックコンデンサ	GRM1882C1H102J	村田製作所	1	
+C8	積層セラミックコンデンサ	GRM188B31E105K	村田製作所	1	ST
+C9	アルミ固体コンデンサ	10SEP56	Panasonic	1	ST
+C10	積層セラミックコンデンサ	GRM188B31H104K	村田製作所	1	ST
+C11	積層セラミックコンデンサ	GRM188B31H104K	村田製作所	1	ST
+C12	積層セラミックコンデンサ	GRM188B31H104K	村田製作所	1	ST
+C13	積層セラミックコンデンサ	GRM188B31H104K	村田製作所	1	ST
+C14	積層セラミックコンデンサ	GRM188B31H104K	村田製作所	1	ST
+C15	積層セラミックコンデンサ	GRM188B31H104K	村田製作所	1	ST
+C16	積層セラミックコンデンサ	GRM21BB31E475K	村田製作所	1	OD
+C17	積層セラミックコンデンサ	GRM188B31H104K	村田製作所	1	ST
+C18	積層セラミックコンデンサ	GRM2192C1H103J	村田製作所	1	
+CN1	DF11コネクタ(PLUG)	DF11-12DP-2DSA(24)	HIROSE	1	ST
+D1	ショットキーダイオード	1SS226	TOSHIBA	1	ST
+R1	薄膜チップ抵抗	RR0816P-103-D	SSM	1	ST
+R2	薄膜チップ抵抗	RR0816P-103-D	SSM	1	ST
+R3	ジャンパチップ	RMC1/16JP	釜屋	1	ST
+R4	ジャンパチップ	RMC1/16JP	釜屋	1	ST
+R5	ジャンパチップ	RMC1/16JP	釜屋	1	ST
+R6	薄膜チップ抵抗	RR0816P-513-D	SSM	1	ST
+R7	薄膜チップ抵抗	RR0816P-513-D	SSM	1	ST
+R8	薄膜チップ抵抗	RR0816P-164-D	SSM	1	ST
+R9	薄膜チップ抵抗	RR0816P-513-D	SSM	1	ST
+R10	薄膜チップ抵抗	RR0816P-103-D	SSM	1	ST
+R11	単回転ポテンショ	CT-6EP5kohm	COPAL	1	ST
+R12	薄膜チップ抵抗	RR0816P-512-D	SSM	1	ST
+R13	薄膜チップ抵抗	RR0816P-822-D	SSM	1	ST
+R14	ジャンパチップ	RMC1/16JP	釜屋	1	ST
+R15	薄膜チップ抵抗	RR0816P-513-D	SSM	1	ST
+R16	薄膜チップ抵抗	RR0816P-513-D	SSM	1	ST
+R17	（実装なし）	-NO_WORK-	---	1	---
+R18	薄膜チップ抵抗	RR0816P-752-D	SSM	1	ST
+R19	薄膜チップ抵抗	RR0816P-471-D	SSM	1	ST
+R20	薄膜チップ抵抗	RR0816P-432-D	SSM	1	ST
+R21	単回転ポテンショ	CT-6EP5kohm	COPAL	1	ST
+R22	薄膜チップ抵抗	RR0816P-102-D	SSM	1	ST
+R23	薄膜チップ抵抗	RR0816P-513-D	SSM	1	ST
+R24	薄膜チップ抵抗	RR0816P-513-D	SSM	1	ST
+R25	薄膜チップ抵抗	RR0816P-164-D	SSM	1	ST
+R26	薄膜チップ抵抗	RR0816P-513-D	SSM	1	ST
+R31	薄膜チップ抵抗	RR0816P-683-D	SSM	1	ST
+R32	厚膜チップ抵抗	RMC1/16K470F	釜屋	1	ST
+R33	薄膜チップ抵抗	RR0816P-683-D	SSM	1	ST
+R34	薄膜チップ抵抗	RR0816P-104-D	SSM	1	ST
+R35	薄膜チップ抵抗	RR0816P-104-D	SSM	1	ST
+R36	薄膜チップ抵抗	RR0816P-104-D	SSM	1	ST
+R37	薄膜チップ抵抗	RR0816P-104-D	SSM	1	ST
+R38	薄膜チップ抵抗	RR0816P-104-D	SSM	1	ST
+TP1	（実装なし）	-NO_WORK-	---	1	---
+TP2	テストポイント	LC-3-G	MAC8	1	ST
+TP3	（実装なし）	-NO_WORK-	---	1	---
+TP4	テストポイント	LC-3-G	MAC8	1	ST
+TP5	（実装なし）	-NO_WORK-	---	1	---
+U1	オペアンプ	OPA2344EA	TI	1	OD
+U2	オペアンプ	OPA2344EA	TI	1	OD
+U3	アナログスイッチ	TS5A23159DGS	TI	1	OD
+U4	オペアンプ	OPA2344EA	TI	1	OD
+U5	アナログスイッチ	TS5A23159DGS	TI	1	OD
+U7	C-MOS	TC74VHC4052AFT	TOSHIBA	1	ST
+U23	電圧レギュレータ	TPS79933DDC	TI	1	OD
