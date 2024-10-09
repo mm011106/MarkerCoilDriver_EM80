@@ -3,14 +3,18 @@
 このディレクトリにはPDF版の回路図とその元となるCADデータ（EagleCAD-Fusionフォーマット）を保管しています。
 
 ## 回路図
-CADを起動することなく回路図を確認することができます。
-- [EM80DR_SCH_10.pdf](EM80DR_SCH_10.pdf)
-    マーカコイルドライバとそのリモコンの回路図です。CPLDを使っていますが、その設計については[こちら](../../software/HDL)を参照してください。
-- [OPTFIBER_harnessAssy_REV01.pdf](OPTFIBER_harnessAssy_REV01.pdf)
+
+- [EM80DR_SCH_10.pdf](EM80DR_SCH_10.pdf)</br>
+    マーカコイルドライバとそのリモコンの回路図です。</br>
+    CPLDを使っていますが、その設計については[こちら](../../software/HDL)を参照してください。
+  
+- [OPTFIBER_harnessAssy_REV01.pdf](OPTFIBER_harnessAssy_REV01.pdf)</br>
     プラスティック光ファイバの回路図（仕様書）です。
-- OSC4ReTHM_12kHz.pdf ~ OSC4ReTHM_12kHz.pdf 
+  
+- OSC4ReTHM_12kHz.pdf ~ OSC4ReTHM_12kHz.pdf </br>
     ReTHMモードでの励磁用発振回路です。
-- [Remote_harnessAssy.pdf](Remote_harnessAssy.pdf)
+
+- [Remote_harnessAssy.pdf](Remote_harnessAssy.pdf)</br>
     EM-80R内部のワイヤハーネスの回路図です。
 
 ## CADデータ
