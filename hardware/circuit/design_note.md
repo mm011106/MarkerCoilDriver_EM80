@@ -38,10 +38,13 @@
   
         リモコンからのモード変更指示の信号は光ファイバのトランシーバU6を通して、RCフィルタによるLPF(R26//C5)により高い周波数のパルス（ノイズ）が除去されたのちレベルコンパレータに入力されています。これにより、誤動作を防いでいます。</br>
         その後、パルス幅の判別が行われ(U11A)、判別結果に従って動作モードを決定する簡単なステートマシン(U9,U12)が駆動されます</br>
-        ステートマシンの状態はPOWER_80とPOWER_RETHMの2つの信号によってドライブ回路側に渡されています。（ともにフォトカプラU7,U8を経由しています）
+        ステートマシンの状態はフォトカプラU7,U8を経由してPOWER_ONとRMT_80/!RETHMの2つの信号としてドライブ回路側に渡されています。
 
         ##### ステートマシンの図示
         ![Test Image 1](/figures/StateMachine.png)
+<!--
+ https://editor.plantuml.com/uml/SoWkIImgAStDuSh8J4bLICqjAAbKI4ajJYxAB2Z9pC_ZYjQALT3LjLDutBJpSTF-nysR7pTFUDoqn2eWlporIC4_ZuiBJKO1gDZ2mAFgSVEYnyrx7ZTtAbWf67AXYc2Q1rHam8MfAYWrnCCNrIGq8Ln6EQJcfO2y1G00
+ -->
 
 
     <br></br>
