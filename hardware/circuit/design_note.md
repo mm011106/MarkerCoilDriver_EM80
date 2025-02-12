@@ -40,19 +40,17 @@
         その後、パルス幅の判別が行われ(U11A)、判別結果に従って動作モードを決定する簡単なステートマシン(U9,U12)が駆動されます</br>
         ステートマシンの状態はフォトカプラU7,U8を経由してPOWER_ONとRMT_80/!RETHMの2つの信号としてドライブ回路側に渡されています。
 
-        ##### ステートマシンの図示
-        ![Test Image 1](/figures/StateMachine.png)
-<!--
- https://editor.plantuml.com/uml/SoWkIImgAStDuSh8J4bLICqjAAbKI4ajJYxAB2Z9pC_ZYjQALT3LjLDutBJpSTF-nysR7pTFUDoqn2eWlporIC4_ZuiBJKO1gDZ2mAFgSVEYnyrx7ZTtAbWf67AXYc2Q1rHam8MfAYWrnCCNrIGq8Ln6EQJcfO2y1G00
- -->
 
-
-    <br></br>
     - __同期信号の送出：__ </br>
         外部機器で信号処理のため必要となるマーカコイルドライバ回路の同期信号は、フォトカプラ(U1)を経由してリモコンインターフェイス回路に導入されます。この信号はU4のバッファにより電流増幅され、光ファイバのトランスミッタ(U3)をドライブします。U4のバッファICのドライブ能力は1つのゲートあたり6mAで、それを7本並列に使用しているので理論上は40mA以上のドライブができる計算です（実際の電流上限はU4の絶対最大定格によって制限されます）。この回路ではトランスミッタのドライブ電流は8mA程度となっています。</br>
         リモコンと本体の間に長いファイバを使う必要があるなどの場合、R5を調整してトランスミッタからの光強度をあげることも可能です。その場合、U4の絶対最大定格を考慮して電流設定を行なってください。 実績としては、10m程度のファイバであれば回路図の設定で十分安定して動作します。</br>
         U4のバッファICは80Hzモード、ReTHMモードの場合にイネーブルになります(U4-G1/G2)。<br></br>
-    
+
+    - __ステートマシン__ </br>![Test Image 1](/figures/StateMachine.png)
+<!--
+ https://editor.plantuml.com/uml/SoWkIImgAStDuSh8J4bLICqjAAbKI4ajJYxAB2Z9pC_ZYjQALT3LjLDutBJpSTF-nysR7pTFUDoqn2eWlporIC4_ZuiBJKO1gDZ2mAFgSVEYnyrx7ZTtAbWf67AXYc2Q1rHam8MfAYWrnCCNrIGq8Ln6EQJcfO2y1G00
+ -->
+<br></br>
 
 1. コイルドライブ回路（80Hzモード） (回路図 Sheet 2/5)<br></br>
     コイルドライブ回路は次の回路で構成されています。</br>
