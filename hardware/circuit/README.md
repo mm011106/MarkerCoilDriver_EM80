@@ -17,6 +17,9 @@
 - [Remote_harnessAssy.pdf](Remote_harnessAssy.pdf)</br>
     EM-80R内部のワイヤハーネスの回路図です。
 
+- [design_note.md](design_note.md)</br>
+    回路設計の詳細について解説しています。
+
 ## CADデータ
 CADのプロジェクトファイルとそこから生成した基板製造用のガーバデータがあります。</br>
 CADのプロジェクトファイルは2つあり、1つがマーカコイルドライバ本体・リモコン、もう一つがReTHM用発信回路です。
