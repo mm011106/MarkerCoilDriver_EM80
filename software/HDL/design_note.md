@@ -53,6 +53,13 @@ FRAME_SYNC | O | PIN_75 | FRAME_SYNC |80Hzモード時フレーム信号
 
 ## 回路構成
 ### 動作モード切替
+- INPUT:
+!POWER_ON, RMT_80/!RETHM
+
+- OUTPUT:
+RETHM_POWER, 
+nRETHM_OE
+n80_OE
 
 ### 電流値設定
 
