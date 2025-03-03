@@ -6,7 +6,7 @@
 - 設計の詳細について文書で記載できるようにdesign_note.mdを用意しました。ご利用ください
 
 ## 設計ツール
-- ALTERA Quartus II version13.1 web edition を使用
+- ALTERA Quartus II version13.0.1 web edition を使用
 
 
 - プロジェクトフォルダの必要最低限のファイルを収納しています
