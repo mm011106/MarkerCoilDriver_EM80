@@ -56,26 +56,29 @@ nSYNC | O | PIN_75 | FRAME_SYNC |80Hzモード時同期信号
 
 ## 回路構成とその入出力
 ### 動作モード切替
-- **INPUT:**
-!POWER_ON, RMT_80/!RETHM
+- **INPUT:** </br>
+!POWER_ON,  
+RMT_80/!RETHM
 
-- **OUTPUT:**
-RETHM_POWER, 
-nRETHM_OE
+- **OUTPUT:** </br>
+RETHM_POWER,  
+nRETHM_OE,  
 n80_OE
 
-
 ### 電流値設定
-- **INPUT:**
-    SW_AMP_x10_x1, SW_ZO_10k_100k
-- **OUTPUT:**
-    AMP[0:1], ZOUT
+- **INPUT:** </br>
+SW_AMP_x10_x1,  
+SW_ZO_10k_100k
+- **OUTPUT:** </br>
+AMP[0:1],  
+ZOUT
 
 ### 80Hzモードシーケンス
-- **INPUT:**
-    CLK(SYNC_80)
-- **OUTPUT:**
-    CH[0:2], nSYNC
+- **INPUT:** </br>
+CLK(SYNC_80)
+- **OUTPUT:** </br>
+CH[0:2],  
+nSYNC
 
 ## 詳細動作
 ### 動作モード切替
@@ -105,6 +108,7 @@ ReTHMモードに入っても、80Hzモードのためのシーケンス回路�
 
 また、５個のコイルドライブ駆動を１周期としてその同期信号(nSYNC)を以下の条件式で生成します。
 - (WAVE_CNT=1)・(BURST_CNT=0)
+
 この同期信号はリモートコントローラ経由でMEGに送られます。
 
 ## 注意事項
